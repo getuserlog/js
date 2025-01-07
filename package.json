@@ -1,5 +1,5 @@
 {
-  "name": "@userlog/ks",
+  "name": "@userlog/js",
   "version": "1.0.0",
   "description": "userlog JS Client",
   "main": "dist/index.js",
