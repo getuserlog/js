@@ -1,7 +1,7 @@
 # Installation
 
 ```sh
-npm install --save userlog
+npm install --save @userlog/js
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ import { UserLog } from 'userlog';
 ### Initialize Client
 
 ```js
-const userlog = new UserLog({ 
+const userlog = new UserLog({
   api_key: 'YOUR-API-KEY',
   project: 'my-saas-name'
 });
