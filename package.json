@@ -1,7 +1,7 @@
 {
-  "name": "userlog",
+  "name": "@userlog/ks",
   "version": "1.0.0",
-  "description": "userlog Client",
+  "description": "userlog JS Client",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/userlog/userlog.js.git"
+    "url": "git+https://github.com/getuserlog/js.git"
   },
   "keywords": [
     "userlog",
@@ -31,9 +31,9 @@
   "author": "Michael <michael@8byte.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/userlog/userlog.js/issues"
+    "url": "https://github.com/getuserlog/js/issues"
   },
-  "homepage": "https://github.com/userlog/userlog.js#readme",
+  "homepage": "https://github.com/getuserlog/js#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^17.0.8",
