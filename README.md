@@ -25,13 +25,13 @@ const userlog = new UserLog({
 
 ```js
 userlog.track({
-    channel: "registrations",
-    event: "New User",
-    icon: "🎉",
-    user_id: "user@example.com",
-    tags: {
-      source: "website",
-    },
-    notify: false
-})
+  channel: 'registrations',
+  event: 'New User',
+  icon: '🎉',
+  user_id: 'user@example.com',
+  tags: {
+    source: 'website'
+  },
+  notify: false
+});
 ```
